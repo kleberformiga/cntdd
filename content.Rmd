@@ -1,0 +1,11 @@
+---
+title: "Inicio"
+output:
+  html_document:
+    df_print: paged
+---
+
+links
+
+* [Arquivo1](content/01_univariate.html)
+* [Arquivo2](content/02_multivariate.html)
